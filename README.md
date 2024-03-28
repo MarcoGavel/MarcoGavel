@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Web Developer
 ----------------------
 
-Hello everyone! I'm Marco, a student with a great passion for computer science, the web, and graphic design. After years in the restaurant industry, at 36, I've decided to change my career path and pursue my dream of becoming a programmer and Web Developer. 🎓 Currently, I'm studying certified online courses to enhance my skills and improve every day. I've always believed in the importance of continuous learning and challenging oneself in new contexts, and stepping into this field at my age is evidence of that. I'll soon be building a solid portfolio. 💻 In my educational journey, I'm developing skills in #WebDesign, #Programming, #Python, #NodeJS, and #JavaScript. Additionally, I have experience with graphic design tools such as Photoshop and Illustrator. 🌟 I'm actively seeking opportunities in the web development world. I'm looking for a stimulating environment where I can apply my skills and grow professionally in my first job experience in this field. 🔗 I'm looking forward to connecting with other industry professionals! If you're interested in collaborating or simply sharing experiences, feel free to reach out to me!
+Hello everyone! I'm Marco, a student with a great passion for computer science, the web, and graphic design. After years in the restaurant industry, at 36, I've decided to change my career path and pursue my dream of becoming a programmer and Web Developer. 
+
+🎓 Currently, I'm studying certified online courses to enhance my skills and improve every day. I've always believed in the importance of continuous learning and challenging oneself in new contexts, and stepping into this field at my age is evidence of that. I'll soon be building a solid portfolio. 
+
+💻 In my educational journey, I'm developing skills in #WebDesign, #Programming, #Python, #NodeJS, and #JavaScript. Additionally, I have experience with graphic design tools such as Photoshop and Illustrator. 
+
+🌟 I'm actively seeking opportunities in the web development world. I'm looking for a stimulating environment where I can apply my skills and grow professionally in my first job experience in this field. 🔗 I'm looking forward to connecting with other industry professionals! If you're interested in collaborating or simply sharing experiences, feel free to reach out to me!
 
 * 🌍  I'm based in Bologna (IT)
 * ✉️  You can contact me at [MarcoGavel@gmail.com](mailto:MarcoGavel@gmail.com)
