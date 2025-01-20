@@ -8,7 +8,12 @@ Hi! I’m Marco!
 
 I'm at the beginning of my IT career, specializing in Figma and Adobe tools through online certifications.  
 
-I focus on web design and No-Code development, creating functional, user-friendly products with strong UI/UX principles. Additionally, I study web development to address potential technical challenges.  
+I focus on web design and No-Code development, creating functional, user-friendly products with strong UI/UX principles.   
+Additionally, I study web development to address potential technical challenges.   
+
+One thing I can guarantee is that I will give 100% to meet client needs.   
+
+I'm here to build my future, and it's the most important thing I have.   
 
 ### Skills:  
 
