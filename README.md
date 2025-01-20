@@ -1,42 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm MarcoGavel!
 =====================================================================================================================================
 
-Aspiring Web Developer
+Aspiring Web Designer
 ----------------------
 
 Hi! I’m Marco!
 
-I’m an italian UI-UX student ready to offer collaboration in problem management.
+II'm at the beginning of my IT career, specializing in Figma and Adobe tools through online certifications.
 
-I work on Webflow, Figma and Adobe programs.
+I focus on web design and No-Code development, creating functional, user-friendly products with strong UI/UX principles. Additionally, I study web development to address potential technical challenges.
 
-My story:
+### Skills:
 
-At the beginning of 2024 I decided to change my life by starting an IT career. 
+Design & Tools ➡️ Figma, Photoshop, Illustrator
+No-Code & Web Development ➡️ Webflow, WordPress
+Programming ➡️ HTML/CSS, basic JavaScript, some ReactJS and NodeJS
+Social Media Management ➡️ Content strategy, audience engagement, and analytics for X and Instagram
 
-I learn towards Web Design and No-Code, easy and functional products with UI/UX capabilities, but I also study web development (classic code, css/JS/nodeJS/React) to handle possible problems.
-
-I’m 37 years old and have always worked in the restaurant industry. 
-
-Thanks to this job I have developed a strong ability to manage customers and difficulties. 
-
-Great patience and teamwork. I want to channel these qualities into my future IT job.
-
-* 🌍  I'm based in Bologna (IT)
-* ✉️  You can contact me at [MarcoGavel@gmail.com](mailto:MarcoGavel@gmail.com)
-* 🧠  I'm learning Web Development, UI/UX and No-Code (Webflow/WP)
-* 🤝  I'm open to collaborating on Anyone who needs help from a person with no experience but a great desire to do!
-
-### Skills
-
-
-- Adobe
-- Figma
-- WebFlow
-- WordPress
-- HTML/CSS
-- JS, NodeJS, React
-
+🟢 Open to IT experiences to grow my skills and expertise.
 
 
 ### Socials
