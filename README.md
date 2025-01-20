@@ -1,26 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm MarcoGavel!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm MarcoGavel!
 =====================================================================================================================================
 
-Aspiring Web Designer
-----------------------
+Aspiring Web Designer  
+----------------------  
 
-Hi! I’m Marco!
+Hi! I’m Marco!  
 
-II'm at the beginning of my IT career, specializing in Figma and Adobe tools through online certifications.
+I'm at the beginning of my IT career, specializing in Figma and Adobe tools through online certifications.  
 
-I focus on web design and No-Code development, creating functional, user-friendly products with strong UI/UX principles. Additionally, I study web development to address potential technical challenges.
+I focus on web design and No-Code development, creating functional, user-friendly products with strong UI/UX principles. Additionally, I study web development to address potential technical challenges.  
 
-### Skills:
+### Skills:  
 
-Design & Tools ➡️ Figma, Photoshop, Illustrator
-No-Code & Web Development ➡️ Webflow, WordPress
-Programming ➡️ HTML/CSS, basic JavaScript, some ReactJS and NodeJS
-Social Media Management ➡️ Content strategy, audience engagement, and analytics for X and Instagram
+- **Design & Tools** ➡️ Figma, Photoshop, Illustrator  
+- **No-Code & Web Development** ➡️ Webflow, WordPress  
+- **Programming** ➡️ HTML/CSS, basic JavaScript, some ReactJS and NodeJS  
+- **Social Media Management** ➡️ Content strategy, audience engagement, and analytics for X and Instagram  
 
-🟢 Open to IT experiences to grow my skills and expertise.
+🟢 Open to IT experiences to grow my skills and expertise.  
 
-
-### Socials
+### Socials  
 
 <p align="left">
   <a href="https://www.github.com/MarcoGavel" target="_blank" rel="noreferrer">
@@ -38,4 +37,3 @@ Social Media Management ➡️ Content strategy, audience engagement, and analyt
     </picture>
   </a>
 </p>
-
